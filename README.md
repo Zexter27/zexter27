@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=171717&center=true&vCenter=true&width=600&lines=Web+Developer;Linux+Enthusiast;Cybersecurity+and+Pentesting+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=11FA00&center=true&vCenter=true&width=600&lines=Web+Developer;Linux+Enthusiast;Cybersecurity+and+Pentesting+Learner"/>
 
 # Seb_Ass
 ---
