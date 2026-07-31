@@ -37,12 +37,12 @@ Hola, soy Sebas y me apaciona la ciberseguridad, aun estoy en camino de aprendiz
 ### Lenguajes que he aprendido 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mysql,mongodb,&perline=4"/>
 
+
 ### Herramientas que uso 
 <img src="https://skillicons.dev/icons?i=bash,kali,arch,git,ps,blender,&perline=3"/>
 
 </div>
 
----
 
 <div align="center">
 
@@ -50,7 +50,6 @@ Hola, soy Sebas y me apaciona la ciberseguridad, aun estoy en camino de aprendiz
 
 </div>
 
----
 
 <div align="center">
 
@@ -64,7 +63,6 @@ Hola, soy Sebas y me apaciona la ciberseguridad, aun estoy en camino de aprendiz
 <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell-Bash-121011?logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Actualmente-Bash_Scripting-0969da"/>
-<img src="https://img.shields.io/badge/Aprendiendo-Ciberseguridad-red"/>
 
 </div>
 
@@ -72,6 +70,6 @@ Hola, soy Sebas y me apaciona la ciberseguridad, aun estoy en camino de aprendiz
 
 <div align="center">
 
-<sub>123456789 is a bad password</sub>
+<sub color=0F0F0F>123456789 is a bad password</sub>
 
 </div>
