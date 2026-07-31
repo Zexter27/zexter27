@@ -17,20 +17,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=11FA00&center=true&vCenter=true&width=600&lines=Web+Developer;Linux+Enthusiast;Cybersecurity+and+Pentesting+Learner"/>
 
 # Seb_Ass
----
 
 Hola, soy Sebas y me apaciona la ciberseguridad, aun estoy en camino de aprendizaje y no tengo mucho para mostrar de mi
 </div>
-
----
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Zexter27&theme=github&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
