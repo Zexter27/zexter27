@@ -10,13 +10,12 @@
 ╚══════╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚══════╝
 
 [ LINUX ENTHUSIAST ]
+
 ```
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=11FA00&center=true&vCenter=true&width=600&lines=Web+Developer;Linux+Enthusiast;Cybersecurity+and+Pentesting+Learner" alt="Typing SVG"/>
-
-# Seb_Ass
 
 Hola, soy Sebas y me apasiona la ciberseguridad. Aún estoy en camino de aprendizaje y no tengo mucho para mostrar, pero sigo aprendiendo y desarrollando mis habilidades.
 
@@ -24,7 +23,20 @@ Hola, soy Sebas y me apasiona la ciberseguridad. Aún estoy en camino de aprendi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Zexter27&theme=github&hide_border=true" alt="GitHub Streak Stats"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Zexter27&theme=dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=Zexter27&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Zexter27&theme=default&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
 </div>
 
@@ -40,9 +52,13 @@ Hola, soy Sebas y me apasiona la ciberseguridad. Aún estoy en camino de aprendi
 
 </div>
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zexter27&theme=github&hide_border=true" alt="GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zexter27&theme=github&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
