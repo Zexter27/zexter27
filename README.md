@@ -42,43 +42,43 @@ Hola, soy Sebas y me apasiona la ciberseguridad. Aún estoy en camino de aprendi
 
 
 <!-- SKILLS -->
+
 <div align="center">
 
-### Lenguajes y tecnologías que he aprendido
+### Lenguajes y tecnologías
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mysql,mongodb&perline=7" alt="Lenguajes y tecnologías"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,nestjs,mysql,mongodb,docker&perline=5" alt="Lenguajes y tecnologías"/>
 
-### Herramientas que uso
+### Sistemas y herramientas
 
-<img src="https://skillicons.dev/icons?i=bash,kali,arch,git,ps,blender&perline=6" alt="Herramientas"/>
+<img src="https://skillicons.dev/icons?i=bash,kali,arch,git,github,vscode,ps,blender&perline=4" alt="Sistemas y herramientas"/>
 
-</div>
+### Redes y ciberseguridad
 
-<br>
+<img src="https://img.shields.io/badge/Cisco-049FD9?logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/Networking-TCP%2FIP-0078D4" alt="TCP/IP"/>
+<img src="https://img.shields.io/badge/Routing_%26_Switching-1A73E8" alt="Routing and Switching"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-214478" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD" alt="Metasploit"/>
 
-<!-- BADGES -->
-<div align="center">
+### Diseño y modelado
 
-### My Setup & Interests
+<img src="https://img.shields.io/badge/Fusion_360-FF6D00?logo=autodesk&logoColor=white" alt="Fusion 360"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51937?logo=autodesk&logoColor=white" alt="AutoCAD"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white" alt="Blender"/>
+
+### My Setup & Current Focus
 
 <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?logo=archlinux&logoColor=white" alt="Arch Linux"/>
 <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Shell-Bash-121011?logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white" alt="Git"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Interest-Cybersecurity-00C853?logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Focus-Pentesting-8A2BE2" alt="Pentesting"/>
-<img src="https://img.shields.io/badge/Learning-Bash_Scripting-0969DA?logo=gnubash&logoColor=white" alt="Bash Scripting"/>
-<img src="https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Environment-Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Status-Always_Learning-orange?logo=bookstack&logoColor=white" alt="Always Learning"/>
+<img src="https://img.shields.io/badge/Currently-Bash_Scripting-0969DA" alt="Bash Scripting"/>
+<img src="https://img.shields.io/badge/Always-Learning-orange" alt="Always Learning"/>
 
 </div>
+
 
 
 ---
