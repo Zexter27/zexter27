@@ -40,39 +40,46 @@ Hola, soy Sebas y me apasiona la ciberseguridad. Aún estoy en camino de aprendi
 
 </div>
 
+
+<!-- SKILLS -->
 <div align="center">
 
-### Lenguajes que he aprendido
+### Lenguajes y tecnologías que he aprendido
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mysql,mongodb&perline=4" alt="Lenguajes y tecnologías"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mysql,mongodb&perline=7" alt="Lenguajes y tecnologías"/>
 
 ### Herramientas que uso
 
-<img src="https://skillicons.dev/icons?i=bash,kali,arch,git,ps,blender&perline=3" alt="Herramientas"/>
+<img src="https://skillicons.dev/icons?i=bash,kali,arch,git,ps,blender&perline=6" alt="Herramientas"/>
 
 </div>
 
+<br>
 
+<!-- BADGES -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zexter27&theme=github&hide_border=true"/>
+### My Setup & Interests
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zexter27&style=flat-square" alt="Visitas al perfil"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SO-Arch_Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?logo=archlinux&logoColor=white" alt="Arch Linux"/>
 <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Shell-Bash-121011?logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Actualmente-Bash_Scripting-0969da" alt="Bash Scripting"/>
+<img src="https://img.shields.io/badge/Shell-Bash-121011?logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white" alt="Git"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Interest-Cybersecurity-00C853?logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Focus-Pentesting-8A2BE2" alt="Pentesting"/>
+<img src="https://img.shields.io/badge/Learning-Bash_Scripting-0969DA?logo=gnubash&logoColor=white" alt="Bash Scripting"/>
+<img src="https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Environment-Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Status-Always_Learning-orange?logo=bookstack&logoColor=white" alt="Always Learning"/>
 
 </div>
+
 
 ---
 
